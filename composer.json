@@ -1,0 +1,11 @@
+{
+
+  "autoload": {
+    "psr-4": {
+      "Halo\\": "system/classes"
+    }
+  },
+  "require": {
+    "components/bootstrap": "^3.3"
+  }
+}
